@@ -123,16 +123,16 @@
     <Y_Voxels>10</Y_Voxels>
     <Z_Voxels>10</Z_Voxels>
     <Data>
-      <Layer><![CDATA[eJxjYMAKWIAAwmJmYWREZyFkiQIADD4AMw==]]></Layer>
-      <Layer><![CDATA[eJxjYMAGWOAEMzMLCyMaC0EQBwANKAA3]]></Layer>
-      <Layer><![CDATA[eJxjYMACWOAUCwgwsjCjsFAUEQEAEXgASQ==]]></Layer>
-      <Layer><![CDATA[eJxjYMAELHAGIyMjkMPCwsyMYLFgKCMEAA3qADs=]]></Layer>
-      <Layer><![CDATA[eJxjYMAELHAGIwuYzcKCxGLBUEYIAAAN/gA7]]></Layer>
-      <Layer><![CDATA[eJxjYMAELHAGEEBoRiQWhjJCAAAONAA7]]></Layer>
-      <Layer><![CDATA[eJxjYMAELHAGMzMLkMPCyMiIYLFgKCMEAA5IADs=]]></Layer>
-      <Layer><![CDATA[eJxjYMACWOAUMwsjCwggs1hQFBEBABFYAEk=]]></Layer>
-      <Layer><![CDATA[eJxjYMAGWBAEIwsLMzMaC04QBwANJgA3]]></Layer>
-      <Layer><![CDATA[eJxjYMAKWIAAwmJkZGFGZyFkiQIADCwAMw==]]></Layer>
+      <Layer><![CDATA[eJxjYCAEGBmhDBZGRhYoi5kZymJgZiZoAAMABmQAIQ==]]></Layer>
+      <Layer><![CDATA[eJxjYEAGLCyYLEZGqAALIyMLSBhIMDOzQBUwM+PTCwEAEwQAYQ==]]></Layer>
+      <Layer><![CDATA[eJxjYEAGLCw4WSwsLIyMLCAOkGBmZoEL49MLAQAU1ABp]]></Layer>
+      <Layer><![CDATA[eJxjYGBgYGZmgAIEi4UFlcUCBIyMLFDAzAwisakDAUZGVBYAGTwAeQ==]]></Layer>
+      <Layer><![CDATA[eJxNylkOADAIAlEa5/5nLnVJ5UNeDJKIQA48wRIjjlP3q/70MKUl23JdMZwA8Q==]]></Layer>
+      <Layer><![CDATA[eJxNylEKAEAIQkGld/8zry0F+ZEjJAkbJdCCI1a53Z7shirm8UtHcZR6LdwA8Q==]]></Layer>
+      <Layer><![CDATA[eJxjYGBgYGRkgAIEi4UFlcUCBMzMLFDAyAgisakDAWZmVBYAFuQAeQ==]]></Layer>
+      <Layer><![CDATA[eJxjYEAGLCw4WSwsLMzMLCAOkGBkZIEL49MLAQAU/ABp]]></Layer>
+      <Layer><![CDATA[eJxjYEAGLCyYLGZmqAALMzMLSBhIMDKyQBUwMuLTCwEAE6QAYQ==]]></Layer>
+      <Layer><![CDATA[eJxjYCAEmJmhDBZmZhYoi5ERymJgZCRoAAMABwQAIQ==]]></Layer>
     </Data>
   </Structure>
 </VXC>
